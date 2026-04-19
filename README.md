@@ -17,24 +17,6 @@ It helps users track their income and expenses with a clean UI and persistent st
 
 ---
 
-## 🖼️ Screenshots
-
-### 🔹 Main Dashboard
-
-![Dashboard Screenshot](screenshots/dashboard.png)
-
-### 🔹 Adding a Transaction
-
-![Add Transaction Screenshot](screenshots/add-transaction.png)
-
-### 🔹 Transaction List
-
-![Transaction List Screenshot](screenshots/transactions.png)
-
-
-
----
-
 ## 🛠️ Tech Stack
 
 * HTML5
